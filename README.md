@@ -16,7 +16,7 @@ Seedio is a Web3 dApp that lets users securely upload, store, and manage files o
 
 Traditional cloud storage relies on centralized servers that can go down, get censored, or be controlled by a single provider. **Seedio** demonstrates a different model — files are erasure-coded, cryptographically committed, and distributed across a decentralized network of storage providers on **Shelby Protocol**, with ownership and integrity anchored on the **Aptos blockchain**.
 
-This project was built to explore real-world Web3 storage infrastructure — connecting a live Aptos wallet, signing on-chain transactions, and interacting directly with Shelby's testnet.
+This project was built to explore real-world Web3 storage infrastructure connecting a live Aptos wallet, signing on-chain transactions, and interacting directly with Shelby's testnet.
 
 ---
 
